@@ -173,7 +173,7 @@ section .timeline>li::before {
     margin-left: -2px;
     top: 100px;
     display: inline-block;
-    height: 60px;
+    height: 80px;
     width: 4px;
     background-color: aquamarine;
 }
